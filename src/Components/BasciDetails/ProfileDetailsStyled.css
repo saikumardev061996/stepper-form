@@ -1,0 +1,56 @@
+.account-details {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.account-details h1 {
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Roboto";
+}
+.account-details label {
+  font-size: 15px;
+  font-family: "Roboto";
+  margin-bottom: 3px;
+}
+.account-details input {
+  border-radius: 4px;
+  padding: 5px;
+}
+.submit-finis-form h1 {
+  font-family: "Roboto";
+  color: #159b47;
+}
+.account-details a {
+  text-decoration: none;
+}
+.account-details button {
+  border-radius: 5px;
+  font-family: "Roboto";
+  font-size: 15px;
+  width: 80px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
+}
+.account-details div {
+  display: flex;
+}
+.submit-finis-form a{
+    text-decoration: none;
+}
+.submit-finis-form button {
+  border-radius: 5px;
+  font-family: "Roboto";
+  font-size: 15px;
+  width: 80px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
+}
