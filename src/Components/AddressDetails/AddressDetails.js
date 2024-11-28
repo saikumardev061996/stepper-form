@@ -81,7 +81,6 @@ const AddressDetails = () => {
           </Link>
           <Link to="/finished">
             <button type="submit">Finish</button>
-            <h1>hellotest</h1>
           </Link>
         </div>
       </form>
